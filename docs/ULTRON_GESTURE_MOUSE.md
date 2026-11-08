@@ -5,7 +5,7 @@ The gesture mouse is an opt-in, local webcam feature provided by
 
 ## Install
 
-From the project folder, run:
+From the project folder, run: for requirement modules
 
 ```powershell
 python -m pip install -r requirements.txt
